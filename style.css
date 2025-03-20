@@ -1,0 +1,35 @@
+.container {
+    width: 350px;
+    background-color: #c2b66d; /* Light olive background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin: 50px auto;
+    border: 5px solid #0c0b13f4; /* Green border */
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+input, select, button {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #0c9138;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+}
+
+button:hover {
+    background-color: #069235;
+}
