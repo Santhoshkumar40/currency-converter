@@ -27,7 +27,7 @@ JavaScript - Logic for fetching exchange rates and performing calculations
 Installation
 
 1. Clone the repository
-git clone https://github.com/your-username/currency-converter.git
+git clone (https://github.com/Santhoshkumar40/currency-converter.git)
 cd currency-converter
 
 2. Open index.html in a browser
